@@ -1,6 +1,8 @@
 # Basic_Git_commands
 | Command | Description |
 | --- | --- |
+| `rm -rf .git` | Remove git directory from react app |
+| `git reset filename/foldername` | Undo git add command if git commit not used |
 | `git init` | Initialise an existing directory as a Git repository |
 | `git clone` | creates a local copy of a project that already exists remotely. The clone includes all the project's files, history, and branches. |
 | `git add file.txt` | Tell git to start tracking changes to the file file.txt |
